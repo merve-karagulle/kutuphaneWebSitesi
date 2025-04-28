@@ -41,3 +41,12 @@ Her tabloda **Ekle**, **Sil** ve **Güncelle** butonları bulunmaktadır.
 1. Bu depoyu bilgisayarınıza klonlayın:
    ```bash
    git clone (https://github.com/merve-karagulle/kutuphaneWebSitesi)
+2.Veritabanı dosyasını (.sql) kendi MySQL sunucunuza import edin.
+3.Bağlantı ayarlarını (config.php gibi) kendi sunucunuza göre düzenleyin.
+4.Web tarayıcınızdan localhost/proje-adi adresine giderek kullanmaya başlayın.
+
+🧑‍💻 Katkıda Bulunma
+İyileştirme önerileriniz veya katkılarınız için pull request gönderebilirsiniz!
+
+📜 Lisans
+Bu proje kişisel kullanım içindir. İsterseniz kendinize göre özelleştirip kullanabilirsiniz.
