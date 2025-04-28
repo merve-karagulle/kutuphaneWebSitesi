@@ -1,5 +1,5 @@
 <?php
-$conn = new mysqli('localhost', 'u2077168_merve', 'evremmerve12345.M', 'u2077168_kutuphane');
+$conn = new mysqli('localhost', '', '', 'u2077168_kutuphane');
 mysqli_set_charset($conn, "utf8mb4");
 $sql = "SELECT * FROM kitap_bilgi_tablosu ORDER BY KITAP_ID ASC";
 $result = mysqli_query($conn, $sql);  
