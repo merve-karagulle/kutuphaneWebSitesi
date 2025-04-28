@@ -40,4 +40,4 @@ Her tabloda **Ekle**, **Sil** ve **Güncelle** butonları bulunmaktadır.
 
 1. Bu depoyu bilgisayarınıza klonlayın:
    ```bash
-   git clone https://github.com//proje-adi.git
+   git clone (https://github.com/merve-karagulle/kutuphaneWebSitesi)
